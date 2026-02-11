@@ -1,0 +1,7 @@
+{
+  "name": "ScanFlow AI",
+  "description": "An intelligent document scanner that automates OCR, categorization, and digital signatures using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
